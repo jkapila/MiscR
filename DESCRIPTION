@@ -1,0 +1,10 @@
+Package: MiscR
+Type: Package
+Title: Miscelleneous Function For EDA and Much More
+Version: 1.0.0
+Author: Jitin Kapila
+Maintainer: Jitin Kapila <jitin.kapila@gmail.com>
+Description: Mainly easing the basic analysis and do some data modulation.
+License: GPL
+LazyData: TRUE
+RoxygenNote: 5.0.1
